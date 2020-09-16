@@ -8,6 +8,10 @@ ipykernel = "*"
 
 [packages]
 numpy = "*"
+matplotlib = "*"
+scipy = "*"
+pint = "*"
+babel = "*"
 
 [requires]
 python_version = "3.8"
